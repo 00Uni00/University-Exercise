@@ -1,0 +1,15 @@
+C:\Users\Hubert\Desktop\Triangle Parameters\Ex_Triangle_Parameters\Ex_Triangle_Parameters\bin\Debug\net6.0\Ex_Triangle_Parameters.exe
+C:\Users\Hubert\Desktop\Triangle Parameters\Ex_Triangle_Parameters\Ex_Triangle_Parameters\bin\Debug\net6.0\Ex_Triangle_Parameters.deps.json
+C:\Users\Hubert\Desktop\Triangle Parameters\Ex_Triangle_Parameters\Ex_Triangle_Parameters\bin\Debug\net6.0\Ex_Triangle_Parameters.runtimeconfig.json
+C:\Users\Hubert\Desktop\Triangle Parameters\Ex_Triangle_Parameters\Ex_Triangle_Parameters\bin\Debug\net6.0\Ex_Triangle_Parameters.dll
+C:\Users\Hubert\Desktop\Triangle Parameters\Ex_Triangle_Parameters\Ex_Triangle_Parameters\bin\Debug\net6.0\Ex_Triangle_Parameters.pdb
+C:\Users\Hubert\Desktop\Triangle Parameters\Ex_Triangle_Parameters\Ex_Triangle_Parameters\obj\Debug\net6.0\Ex_Triangle_Parameters.csproj.AssemblyReference.cache
+C:\Users\Hubert\Desktop\Triangle Parameters\Ex_Triangle_Parameters\Ex_Triangle_Parameters\obj\Debug\net6.0\Ex_Triangle_Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hubert\Desktop\Triangle Parameters\Ex_Triangle_Parameters\Ex_Triangle_Parameters\obj\Debug\net6.0\Ex_Triangle_Parameters.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\Triangle Parameters\Ex_Triangle_Parameters\Ex_Triangle_Parameters\obj\Debug\net6.0\Ex_Triangle_Parameters.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\Triangle Parameters\Ex_Triangle_Parameters\Ex_Triangle_Parameters\obj\Debug\net6.0\Ex_Triangle_Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\Triangle Parameters\Ex_Triangle_Parameters\Ex_Triangle_Parameters\obj\Debug\net6.0\Ex_Triangle_Parameters.dll
+C:\Users\Hubert\Desktop\Triangle Parameters\Ex_Triangle_Parameters\Ex_Triangle_Parameters\obj\Debug\net6.0\refint\Ex_Triangle_Parameters.dll
+C:\Users\Hubert\Desktop\Triangle Parameters\Ex_Triangle_Parameters\Ex_Triangle_Parameters\obj\Debug\net6.0\Ex_Triangle_Parameters.pdb
+C:\Users\Hubert\Desktop\Triangle Parameters\Ex_Triangle_Parameters\Ex_Triangle_Parameters\obj\Debug\net6.0\Ex_Triangle_Parameters.genruntimeconfig.cache
+C:\Users\Hubert\Desktop\Triangle Parameters\Ex_Triangle_Parameters\Ex_Triangle_Parameters\obj\Debug\net6.0\ref\Ex_Triangle_Parameters.dll

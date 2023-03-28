@@ -1,0 +1,50 @@
+Problem: Triangle Parameters [C#, Mono]
+Write a program that reads three numbers from the standard input that represent the lengths of the sides of a triangle. 
+These numbers are given in floating point form, with an accuracy of two decimal places, on one line, separated by a semicolon and one space. Numbers are in "en-US" format (with a decimal point).
+
+Then, verify the correctness of the data, in the given order:
+
+1) If any of the given numbers are non-positive, print the message Incorrect data. Side lengths must be positive! and terminate the program.
+2) If the lengths of the sides cannot be used to form a triangle, print the message: Incorrect data. The triangle cannot be built! and terminate the program. (NOTE: we allow a triangle whose sides coincide, with area zero).
+
+If the data is correct, do the calculations with an accuracy of 2 decimal places and write the following messages to the standard output:
+
+circumference = {circumference} - with an accuracy of 2 decimal places,,
+field = {field} - with an accuracy of 2 decimal places
+triangle is {type}, where type is one of the strings: rectangular, acute-angled, obtuse-angled.
+
+On the last line, if the triangle is equilateral, print equilateral triangle, and if it is isosceles, print isosceles triangle.
+
+When creating a program, use examples and test results
+
+Example of testcases:
+-------------------------------------------------------------
+Input			Output
+-------------------------------------------------------------
+3; 4; 5			circumference = 12.00
+				field = 6.00
+				the triangle is rectangular
+
+-------------------------------------------------------------
+2.01; 3.5; 4.49	circumference = 12.00
+				field = 6.00
+				the triangle is obtuse-angled
+
+-------------------------------------------------------------
+1; 1; 1			circumference = 12.00
+				field = 6.00
+				the triangle is acute-angled
+				the triangle is equilateral
+
+-------------------------------------------------------------
+2; 2; 10		Incorrect data. The triangle cannot be built!
+
+-------------------------------------------------------------
+5; 7; 9			circumference = 12.00
+				field = 6.00
+				the triangle is obtuse-angled
+
+-------------------------------------------------------------
+-5; 7; 9		Incorrect data. Side lengths must be positive! 
+
+-------------------------------------------------------------
