@@ -1,0 +1,22 @@
+Problem: Retirement 3 [C#, Mono]
+The problem is a modification of the Retirement 2 problem. Use the code, modify it to meet the new specification conditions.
+
+Write a program that reads a single line from the standard input containing a person's name, age, and retirement age separated by a single space.
+Then the program will add:
+
+Message "Wiek nie może być ujemny!" if the loaded age or retirement age number is negative.
+Personalized greeting message "Witaj emerycie {nazwisko}!"" if the person has reached retirement age.
+Message ""Witaj {nazwisko}! Do emerytury brakuje Ci {x} lat!" " if the loaded person's age is less than the retirement age and x is the difference between the retirement age and the person's age. 
+
+The content of the message specifying the missing years should be in accordance with the grammar of the Polish language, i.e. 
+we will say that You are 15 years away from retirement!, but otherwise we will say that You are 22 years away from retirement!
+In case when last digit is 2,3,4 it need to be ,, lata" otherwise ,,lat"
+
+Example of testcases:
+------------------------------------------------------------------------
+Input			Output
+------------------------------------------------------------------------
+Molenda 56 65		Witaj Molenda! Do emerytury brakuje Ci 9 lat!
+------------------------------------------------------------------------
+Jurek 65 67		Witaj Jurek! Do emerytury brakuje Ci 2 lata!
+------------------------------------------------------------------------

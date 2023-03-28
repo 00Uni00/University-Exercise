@@ -1,0 +1,33 @@
+Problem: Retirement 2 [C#, Mono]
+The problem is an extension (hinder) of the problem Retirement 1. Use the code, modify it to meet the new specification conditions.
+
+Write a program that reads from standard input:
+
+from the first line an inscription denoting the name
+from the second line, an integer denoting the person's age
+from the third line, an integer denoting the retirement age
+The program then writes to the standard output:
+
+In the first line, the text of the personalized greeting "Hello, {name}!".
+
+In the next line:
+1) Message "Wiek nie mo¿e byæ ujemny!" if the loaded age or retirement age number is negative.
+2) Message "Do emerytury brakuje Ci  {x} lat!" if the loaded person's age is less than the retirement age and x is the difference between the retirement age and the person's age.
+3) Message "Jesteœ emerytem!!" otherwise.
+
+Additional assumption: the content of the message specifying the missing years should be consistent with the grammar of the Polish language, i.e. 
+We will say that You are 15 (lat) years away from retirement!, but otherwise we will say that You are 22 years (lata) away from retirement!
+In case when last digit is 2,3,4 it need to be ,, lata" otherwise ,,lat"
+
+Example of testcases:
+--------------------------------------------------
+Input			Output
+--------------------------------------------------
+Molenda			Witaj Molenda!
+56				Do emerytury brakuje Ci 9 lat!
+65
+--------------------------------------------------
+Jurek			Witaj Jurek! 
+65				Do emerytury brakuje Ci 2 lata!
+67
+--------------------------------------------------

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex_Pension_Lvl_3/1.0.0": {
+        "runtime": {
+          "Ex_Pension_Lvl_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex_Pension_Lvl_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

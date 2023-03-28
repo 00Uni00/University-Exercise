@@ -1,0 +1,15 @@
+C:\Users\Hubert\Desktop\Pension\Lv_3\Ex_Pension_Lvl_3\Ex_Pension_Lvl_3\bin\Debug\net6.0\Ex_Pension_Lvl_3.exe
+C:\Users\Hubert\Desktop\Pension\Lv_3\Ex_Pension_Lvl_3\Ex_Pension_Lvl_3\bin\Debug\net6.0\Ex_Pension_Lvl_3.deps.json
+C:\Users\Hubert\Desktop\Pension\Lv_3\Ex_Pension_Lvl_3\Ex_Pension_Lvl_3\bin\Debug\net6.0\Ex_Pension_Lvl_3.runtimeconfig.json
+C:\Users\Hubert\Desktop\Pension\Lv_3\Ex_Pension_Lvl_3\Ex_Pension_Lvl_3\bin\Debug\net6.0\Ex_Pension_Lvl_3.dll
+C:\Users\Hubert\Desktop\Pension\Lv_3\Ex_Pension_Lvl_3\Ex_Pension_Lvl_3\bin\Debug\net6.0\Ex_Pension_Lvl_3.pdb
+C:\Users\Hubert\Desktop\Pension\Lv_3\Ex_Pension_Lvl_3\Ex_Pension_Lvl_3\obj\Debug\net6.0\Ex_Pension_Lvl_3.csproj.AssemblyReference.cache
+C:\Users\Hubert\Desktop\Pension\Lv_3\Ex_Pension_Lvl_3\Ex_Pension_Lvl_3\obj\Debug\net6.0\Ex_Pension_Lvl_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hubert\Desktop\Pension\Lv_3\Ex_Pension_Lvl_3\Ex_Pension_Lvl_3\obj\Debug\net6.0\Ex_Pension_Lvl_3.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\Pension\Lv_3\Ex_Pension_Lvl_3\Ex_Pension_Lvl_3\obj\Debug\net6.0\Ex_Pension_Lvl_3.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\Pension\Lv_3\Ex_Pension_Lvl_3\Ex_Pension_Lvl_3\obj\Debug\net6.0\Ex_Pension_Lvl_3.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\Pension\Lv_3\Ex_Pension_Lvl_3\Ex_Pension_Lvl_3\obj\Debug\net6.0\Ex_Pension_Lvl_3.dll
+C:\Users\Hubert\Desktop\Pension\Lv_3\Ex_Pension_Lvl_3\Ex_Pension_Lvl_3\obj\Debug\net6.0\refint\Ex_Pension_Lvl_3.dll
+C:\Users\Hubert\Desktop\Pension\Lv_3\Ex_Pension_Lvl_3\Ex_Pension_Lvl_3\obj\Debug\net6.0\Ex_Pension_Lvl_3.pdb
+C:\Users\Hubert\Desktop\Pension\Lv_3\Ex_Pension_Lvl_3\Ex_Pension_Lvl_3\obj\Debug\net6.0\Ex_Pension_Lvl_3.genruntimeconfig.cache
+C:\Users\Hubert\Desktop\Pension\Lv_3\Ex_Pension_Lvl_3\Ex_Pension_Lvl_3\obj\Debug\net6.0\ref\Ex_Pension_Lvl_3.dll
