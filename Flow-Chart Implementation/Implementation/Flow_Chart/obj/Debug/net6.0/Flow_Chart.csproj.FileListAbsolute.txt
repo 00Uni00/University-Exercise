@@ -1,0 +1,15 @@
+C:\Users\Hubert\Desktop\Flow-Chart Implementation\Implementation\Flow_Chart\bin\Debug\net6.0\Flow_Chart.exe
+C:\Users\Hubert\Desktop\Flow-Chart Implementation\Implementation\Flow_Chart\bin\Debug\net6.0\Flow_Chart.deps.json
+C:\Users\Hubert\Desktop\Flow-Chart Implementation\Implementation\Flow_Chart\bin\Debug\net6.0\Flow_Chart.runtimeconfig.json
+C:\Users\Hubert\Desktop\Flow-Chart Implementation\Implementation\Flow_Chart\bin\Debug\net6.0\Flow_Chart.dll
+C:\Users\Hubert\Desktop\Flow-Chart Implementation\Implementation\Flow_Chart\bin\Debug\net6.0\Flow_Chart.pdb
+C:\Users\Hubert\Desktop\Flow-Chart Implementation\Implementation\Flow_Chart\obj\Debug\net6.0\Flow_Chart.csproj.AssemblyReference.cache
+C:\Users\Hubert\Desktop\Flow-Chart Implementation\Implementation\Flow_Chart\obj\Debug\net6.0\Flow_Chart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hubert\Desktop\Flow-Chart Implementation\Implementation\Flow_Chart\obj\Debug\net6.0\Flow_Chart.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\Flow-Chart Implementation\Implementation\Flow_Chart\obj\Debug\net6.0\Flow_Chart.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\Flow-Chart Implementation\Implementation\Flow_Chart\obj\Debug\net6.0\Flow_Chart.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\Flow-Chart Implementation\Implementation\Flow_Chart\obj\Debug\net6.0\Flow_Chart.dll
+C:\Users\Hubert\Desktop\Flow-Chart Implementation\Implementation\Flow_Chart\obj\Debug\net6.0\refint\Flow_Chart.dll
+C:\Users\Hubert\Desktop\Flow-Chart Implementation\Implementation\Flow_Chart\obj\Debug\net6.0\Flow_Chart.pdb
+C:\Users\Hubert\Desktop\Flow-Chart Implementation\Implementation\Flow_Chart\obj\Debug\net6.0\Flow_Chart.genruntimeconfig.cache
+C:\Users\Hubert\Desktop\Flow-Chart Implementation\Implementation\Flow_Chart\obj\Debug\net6.0\ref\Flow_Chart.dll

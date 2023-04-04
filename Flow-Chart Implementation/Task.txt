@@ -1,0 +1,23 @@
+Implement the following algorithm described in the flow chart.
+
+The program reads from the standard input 3 integers, successively x, y, z, 
+separated by a single space, and writes a string of letters to the standard output, acting in accordance with the diagram below.
+
+All 3 task was implementation from the same Flow-Chart schema but with diffrent tools: goto, for, while
+
+Example of testcases:
+-------------------------------------------------------------
+Input			Output
+-------------------------------------------------------------
+1 2 3			CEG
+
+-------------------------------------------------------------
+-2 0 2			EG
+
+-------------------------------------------------------------
+1 -1 2			D
+
+-------------------------------------------------------------
+2 2 0			CCEG
+
+-------------------------------------------------------------
