@@ -1,0 +1,36 @@
+﻿Your task is to write a C# program that estimates the volume (V) of a simple cone of revolution with a given radius (R) and a generatrix (L).
+
+In the case of incorrect data, preventing the creation of a cone, the program is to return the appropriate error information (see specification).
+
+Entry:
+Two integers, R and L respectively, from -106 to 106, separated by a space.
+
+Exit:
+Two non-negative integers a, b separated by a space such that:
+
+0 ≤ a ≤ b
+a is the lower bound of V, that is, the largest integer not greater than V
+b is the upper bound of V, which is the smallest integer not less than V
+
+If any of the given arguments is a negative number, the program returns the text: ,,negative argument".
+
+If the arguments prevent the geometric construction of the cone, the program returns the text: ,,object does not exist".
+
+We assume the existence of a "trivial" cone (reduced to a point, segment, circle, ...) with a volume of 0.
+
+
+
+Example of testcases:
+-------------------------------------
+Input			Output
+-------------------------------------
+3 4				24 25
+
+-------------------------------------
+4 3				object does not exist
+
+-------------------------------------
+-1 2			negative argument
+
+-------------------------------------
+2 2				0 0

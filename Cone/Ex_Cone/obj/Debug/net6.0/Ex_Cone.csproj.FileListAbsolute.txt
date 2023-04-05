@@ -1,0 +1,15 @@
+C:\Users\Hubert\Desktop\Cone\Ex_Cone\bin\Debug\net6.0\Ex_Cone.exe
+C:\Users\Hubert\Desktop\Cone\Ex_Cone\bin\Debug\net6.0\Ex_Cone.deps.json
+C:\Users\Hubert\Desktop\Cone\Ex_Cone\bin\Debug\net6.0\Ex_Cone.runtimeconfig.json
+C:\Users\Hubert\Desktop\Cone\Ex_Cone\bin\Debug\net6.0\Ex_Cone.dll
+C:\Users\Hubert\Desktop\Cone\Ex_Cone\bin\Debug\net6.0\Ex_Cone.pdb
+C:\Users\Hubert\Desktop\Cone\Ex_Cone\obj\Debug\net6.0\Ex_Cone.csproj.AssemblyReference.cache
+C:\Users\Hubert\Desktop\Cone\Ex_Cone\obj\Debug\net6.0\Ex_Cone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hubert\Desktop\Cone\Ex_Cone\obj\Debug\net6.0\Ex_Cone.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\Cone\Ex_Cone\obj\Debug\net6.0\Ex_Cone.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\Cone\Ex_Cone\obj\Debug\net6.0\Ex_Cone.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\Cone\Ex_Cone\obj\Debug\net6.0\Ex_Cone.dll
+C:\Users\Hubert\Desktop\Cone\Ex_Cone\obj\Debug\net6.0\refint\Ex_Cone.dll
+C:\Users\Hubert\Desktop\Cone\Ex_Cone\obj\Debug\net6.0\Ex_Cone.pdb
+C:\Users\Hubert\Desktop\Cone\Ex_Cone\obj\Debug\net6.0\Ex_Cone.genruntimeconfig.cache
+C:\Users\Hubert\Desktop\Cone\Ex_Cone\obj\Debug\net6.0\ref\Ex_Cone.dll
