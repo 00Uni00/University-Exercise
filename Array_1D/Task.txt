@@ -1,0 +1,23 @@
+
+Given are two non-empty arrays of integers int[] a and int[] b. The numbers stored in these arrays are sorted in non-decreasing order.
+
+Write a signature routine which writes to the standard output, in ascending order, those numbers in array a that are not in array b, and those numbers in array b that are not in array a.
+
+1) Do not list duplicates.
+2) Write the numbers on one line, separated by a single space.
+3) In the absence of numbers that meet the conditions of the task, print the word empty.
+
+Program didnt let me use System.Generic.Collections so i wrote my own LinkedListM,Node class to  implement LinkedList.
+
+Example of testcases:
+-------------------------------------------------------------------
+Input												Output
+-------------------------------------------------------------------
+a = new int[] {-2, -1, 0, 1, 4};					-3 0 2 3 4
+b = new int[] {-3, -2, -1, 1, 2, 3};
+
+-------------------------------------------------------------------
+a = new int[] {0, 1, 1, 2, 3, 3, 3};				empty
+b = new int[] {0, 1, 2, 3, 3};					
+
+-------------------------------------------------------------------

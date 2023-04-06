@@ -1,0 +1,15 @@
+C:\Users\Hubert\Desktop\7\Array_1D\bin\Debug\net6.0\Array_1D.exe
+C:\Users\Hubert\Desktop\7\Array_1D\bin\Debug\net6.0\Array_1D.deps.json
+C:\Users\Hubert\Desktop\7\Array_1D\bin\Debug\net6.0\Array_1D.runtimeconfig.json
+C:\Users\Hubert\Desktop\7\Array_1D\bin\Debug\net6.0\Array_1D.dll
+C:\Users\Hubert\Desktop\7\Array_1D\bin\Debug\net6.0\Array_1D.pdb
+C:\Users\Hubert\Desktop\7\Array_1D\obj\Debug\net6.0\Array_1D.csproj.AssemblyReference.cache
+C:\Users\Hubert\Desktop\7\Array_1D\obj\Debug\net6.0\Array_1D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hubert\Desktop\7\Array_1D\obj\Debug\net6.0\Array_1D.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\7\Array_1D\obj\Debug\net6.0\Array_1D.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\7\Array_1D\obj\Debug\net6.0\Array_1D.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\7\Array_1D\obj\Debug\net6.0\Array_1D.dll
+C:\Users\Hubert\Desktop\7\Array_1D\obj\Debug\net6.0\refint\Array_1D.dll
+C:\Users\Hubert\Desktop\7\Array_1D\obj\Debug\net6.0\Array_1D.pdb
+C:\Users\Hubert\Desktop\7\Array_1D\obj\Debug\net6.0\Array_1D.genruntimeconfig.cache
+C:\Users\Hubert\Desktop\7\Array_1D\obj\Debug\net6.0\ref\Array_1D.dll
