@@ -1,0 +1,88 @@
+﻿Class Time24h
+You are an intern in an IT company. You have been given the task to modify the Time24h class written in C#.
+
+Objects of the Time24h class represent time, i.e.: hour, minute and second in the 24-hour notation, in the format h:mm:ss (e.g. 2:20:05). Internally, the time is stored as the number of seconds that have elapsed since the start time of 0:00:00 - in the private field numberSeconds (see code).
+
+Your task is to modify the attached Time24h class code so that:
+
+1) In the constructor, prevent the object from being created - by throwing an ArgumentException - when the wrong data is passed. Acceptable parameter values ​​are: 0..59 for seconds and minutes, 0..23 for hours,
+
+2) Objects of the Time24h class were mutable by correctly defining properties of the set type for hours, minutes and seconds (see code).
+
+3) You must not modify the existing code - you only complete the missing fragments (indicated with a comment).
+
+Below is the Time24h class code that you will modify.
+
+public class Time24h
+{
+	private int numberOfSeconds;
+
+	public int Second
+	{
+		get => numberOfSeconds - Hour * 60 * 60 - Minute * 60;
+		//Setter place.
+	}
+
+	public int Minute
+	{
+		get => (numberOfSeconds / 60) % 60;
+		//Setter place.
+	}	
+
+	public int Hour
+	{
+		get => numberOfSeconds / 3600;
+		//Setter place.
+	}
+
+	public Time24h(int hour, int minute, int second)
+	{
+		numberOfSeconds = second + 60 * minute + 3600 * hour;
+		//Validation place with ArgumentException.
+	}
+
+	public override string ToString() => $"{Hour}:{Minute:D2}:{Second:D2}";
+}
+
+Example of testcases:
+-------------------------------------------------------------
+Input								Output
+-------------------------------------------------------------
+var t = new Time24h(2, 15, 37);		1:20:26
+t.Minute = 20;
+t.Hour = 1;
+t.Second = 26;
+Console.WriteLine(t)	
+
+-------------------------------------------------------------
+var t = new Time24h(2, 15, 37);		error
+t.Minute = 20;
+t.Hour = 24;
+Console.WriteLine(t)	
+
+-------------------------------------------------------------
+var t = new Time24h(2, 15, 37);		error
+t.Minute = -20;
+t.Hour = 23;
+Console.WriteLine(t)	
+
+-------------------------------------------------------------
+var t = new Czas24h(2, 15, 37);		1:12:01
+t.Minute = 20;
+t.Hour = 23;
+t.Hour = 1;
+t.Second = 15;
+t.Minute = 10;
+t.Second = 23;
+t.Second = 1;
+t.Minute = 12;
+Console.WriteLine(t);
+
+-------------------------------------------------------------
+var t = new Time24h(24, 15, 37);		error
+t.Minute = 20;
+t.Hour = 23;
+t.Hour = 1;
+Console.WriteLine(t)
+
+-------------------------------------------------------------

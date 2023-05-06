@@ -1,0 +1,15 @@
+C:\Users\Hubert\Desktop\Time24h\TimeTask\obj\Debug\net6.0\TimeTask.csproj.AssemblyReference.cache
+C:\Users\Hubert\Desktop\Time24h\TimeTask\obj\Debug\net6.0\TimeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hubert\Desktop\Time24h\TimeTask\obj\Debug\net6.0\TimeTask.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\Time24h\TimeTask\obj\Debug\net6.0\TimeTask.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\Time24h\TimeTask\obj\Debug\net6.0\TimeTask.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\Time24h\TimeTask\bin\Debug\net6.0\TimeTask.exe
+C:\Users\Hubert\Desktop\Time24h\TimeTask\bin\Debug\net6.0\TimeTask.deps.json
+C:\Users\Hubert\Desktop\Time24h\TimeTask\bin\Debug\net6.0\TimeTask.runtimeconfig.json
+C:\Users\Hubert\Desktop\Time24h\TimeTask\bin\Debug\net6.0\TimeTask.dll
+C:\Users\Hubert\Desktop\Time24h\TimeTask\bin\Debug\net6.0\TimeTask.pdb
+C:\Users\Hubert\Desktop\Time24h\TimeTask\obj\Debug\net6.0\TimeTask.dll
+C:\Users\Hubert\Desktop\Time24h\TimeTask\obj\Debug\net6.0\refint\TimeTask.dll
+C:\Users\Hubert\Desktop\Time24h\TimeTask\obj\Debug\net6.0\TimeTask.pdb
+C:\Users\Hubert\Desktop\Time24h\TimeTask\obj\Debug\net6.0\TimeTask.genruntimeconfig.cache
+C:\Users\Hubert\Desktop\Time24h\TimeTask\obj\Debug\net6.0\ref\TimeTask.dll
